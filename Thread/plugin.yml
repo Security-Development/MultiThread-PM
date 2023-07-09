@@ -1,0 +1,5 @@
+name: Thread
+version: 23.07
+author: Anonymous
+main: plugin\MainThread
+api: 5.2.0
